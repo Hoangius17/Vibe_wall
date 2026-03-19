@@ -1,0 +1,5 @@
+{
+  "name": "VibeWall",
+  "description": "Generate custom phone wallpapers based on your desired vibe using Gemini 3 Pro Image.",
+  "requestFramePermissions": []
+}
